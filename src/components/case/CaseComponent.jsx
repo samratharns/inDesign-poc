@@ -11,7 +11,7 @@ const CaseComponent = () => {
           This is an early access preview of our ongoing work. Please <a href="https://img.ly/company/contact-us">let us know</a> if you encounter any issues.
           <br />
           <br />
-          Code:<a href="https://github.com/samratharns/inDesign-poc">https://github.com/samratHarns/inDesign-poc </a>
+          Code: <a href="https://github.com/samratharns/inDesign-poc">github.com/samratHarns/inDesign-poc </a>
         </ShowcaseAlert>
 
         <div className={classes.wrapper}>

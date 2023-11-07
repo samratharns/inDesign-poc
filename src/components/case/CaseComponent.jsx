@@ -7,9 +7,9 @@ const CaseComponent = () => {
   return (
     <FileProcessingContextProvider>
       <div className={classes.outerWrapper}>
-        <ShowcaseAlert title={'Early Access: Alpha Version'}>
+        <ShowcaseAlert title={'Indesign POC by Harns'}>
           This is an early access preview of our ongoing work. Please{' '}
-          <a href="https://img.ly/company/contact-us">let us know</a> if you
+          <a href="https://samratjaiswal.com">Contact Samrat</a>, if you
           encounter any issues.
         </ShowcaseAlert>
         <div className={classes.wrapper}>
